@@ -14,7 +14,7 @@ const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
             <div className="flex items-center">
               <Link to="/" className="text-xl font-bold">
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-                  EL-BICHO
+                  ASHRAF ISSA
                 </span>
               </Link>
             </div>

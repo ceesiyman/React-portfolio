@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
         >
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-6">
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
-              EL-BICHO
+              ASHRAF ISSA
             </span>
           </h1>
           <p className={`text-xl sm:text-2xl mb-8 ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>
